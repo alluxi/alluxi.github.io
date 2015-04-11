@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://alluxi.eu/</loc>
-		<lastmod>2015-04-07</lastmod>
+		<lastmod>2015-04-11</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -13,5 +13,9 @@
 	<url>
 		<loc>http://alluxi.eu/social-liberalism-in-a-nutshell/</loc>
 		<lastmod>2015-04-07</lastmod>
+	</url>
+	<url>
+		<loc>http://alluxi.eu/government-imposed-fees/</loc>
+		<lastmod>2015-04-11</lastmod>
 	</url>
 </urlset>
