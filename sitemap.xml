@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://alluxi.eu/</loc>
-		<lastmod>2015-06-07</lastmod>
+		<lastmod>2015-06-19</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -33,6 +33,10 @@
 	<url>
 		<loc>https://alluxi.eu/a-ground-breaking-candidacy/</loc>
 		<lastmod>2015-06-07</lastmod>
+	</url>
+	<url>
+		<loc>https://alluxi.eu/governments-for-citizens/</loc>
+		<lastmod>2015-06-19</lastmod>
 	</url>
 	<url>
 		<loc>https://alluxi.eu/2/</loc>
